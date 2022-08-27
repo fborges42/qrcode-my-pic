@@ -1,3 +1,0 @@
- # exclude output files
-/data/output/**
-!data/output
